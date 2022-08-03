@@ -9,8 +9,8 @@
 ## Sobre mi:
 Estoy estudiando Analisis y Dessarrollo de software en el [SENA](http://oferta.senasofiaplus.edu.co/sofia-oferta/ "SENA") y soy tripulante del programa [MisionTic](https://www.misiontic2022.gov.co/portal/ "MisionTic") que ofrece el Ministerio TIC de Colombia, ademas estudio temas de desarrollo de software en [Platzi](http://platzi.com "Platzi"). Tengo experiencia usando herramientas como GitHub, Figma, Notion y Trello.
 
-- Estou profundizando en JavaScript y el manejo del DOM
-- Estoy aprendiendo los fundamentos de OPP con Java
+- Estoy profundizando en JavaScript y el manejo del DOM
+- Estoy aprendiendo los fundamentos de OOP con Java
 - Tambien estudio sobre Python y su framework DJango
 
 ## Proyectos:
