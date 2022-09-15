@@ -15,7 +15,15 @@ Estoy estudiando Analisis y Dessarrollo de software en el [SENA](http://oferta.s
 ## Proyectos:
 
 
-## Tegnologias que más uso:
+## Tegnologias:
+
+- Html - avanzado
+- Css - intermedio
+- Tailwind - intermedio
+- Javascript - intermedio
+- sql - intermedio
+- python - intermedio
+- django - basico
 
 
 
