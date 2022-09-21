@@ -3,7 +3,7 @@
 ![Google Classroom Encabezado Club de Lectura Azul   Rosa ](https://user-images.githubusercontent.com/86686071/182452453-a8a0565e-cf06-4c8e-a0d1-de74801766c6.png)
 
 ## Me puedes encontrar en:
-- **Linkein:** [esttebanps](http://www.linkedin.com/in/esttebanps "esttebanps") 
+- **Linkedin:** [esttebanps](http://www.linkedin.com/in/esttebanps "esttebanps") 
 - **Twitter:** [esttebanps](https://twitter.com/esttebanps "esttebanps")
 
 ## Sobre mi:
