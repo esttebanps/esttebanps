@@ -23,7 +23,7 @@ Estoy estudiando Analisis y Dessarrollo de software en el [SENA](http://oferta.s
 - Javascript - intermedio
 - sql - intermedio
 - python - intermedio
-- django - basico
+- django - intermedio
 
 
 
