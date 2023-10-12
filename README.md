@@ -4,7 +4,7 @@ Soy Esteban Patiño, un estudiante y aprendiz de desarrollo web apasionado. Mi c
 
 En este perfil encontrarás una selección de mis proyectos personales en los que he trabajado. Mi experiencia incluye:
 
-- Desarrollo de páginas web utilizando HTML, CSS y JavaScript.
+- Desarrollo de páginas web utilizando HTML, CSS y JavaScript con React.
 - Utilización de herramientas como Figma para el diseño de interfaces de usuario.
 - Aplicación de buenas prácticas de diseño y estilos utilizando TailwindCSS.
 - Programación en Python y uso del framework Django para desarrollar aplicaciones web.
