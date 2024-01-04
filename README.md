@@ -1,6 +1,6 @@
 # Bienvenido a mi perfil de Github
 
-Soy Esteban Patiño, un estudiante y aprendiz de desarrollo web apasionado. Mi correo electronico es angelesteban0326@gmail.com
+Soy Esteban Patiño, analista y desarrollador de sistemas de información. Mi correo electronico es angelesteban0326@gmail.com
 
 En este perfil encontrarás una selección de mis proyectos personales en los que he trabajado. Mi experiencia incluye:
 
