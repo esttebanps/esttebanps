@@ -10,6 +10,4 @@ En este perfil encontrarás una selección de mis proyectos personales en los qu
 - Programación en Python y uso del framework Django para desarrollar aplicaciones web.
 - Participación en proyectos de equipo utilizando metodologías ágiles y el control de versiones con Git.
 
-Aunque no tengo experiencia laboral todavía, estoy comprometido en seguir aprendiendo y mejorando mis habilidades. Si tienes alguna pregunta o estás interesado en trabajar juntos, no dudes en ponerte en contacto conmigo a través de mi correo electrónico.
-
 Gracias por visitar mi perfil!
