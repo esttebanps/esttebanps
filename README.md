@@ -1,13 +1,9 @@
 # Bienvenido a mi perfil de Github
 
-Soy Esteban Patiño, analista y desarrollador de sistemas de información. Mi correo electronico es angelesteban0326@gmail.com
+👋 ¡Hola! Soy un programador entusiasta con experiencia, apasionado por transformar ideas en soluciones tecnológicas impactantes. Mi viaje en el desarrollo de software abarca desde el poderoso backend con Java Spring Boot hasta la creación de interfaces atractivas con ReactJS. También me destaco en pruebas QA manuales y en la magia de los contenedores Docker.
 
-En este perfil encontrarás una selección de mis proyectos personales en los que he trabajado. Mi experiencia incluye:
-
-- Desarrollo de páginas web utilizando HTML, CSS y JavaScript con React.
-- Utilización de herramientas como Figma para el diseño de interfaces de usuario.
-- Aplicación de buenas prácticas de diseño y estilos utilizando TailwindCSS.
-- Programación en Python y uso del framework Django para desarrollar aplicaciones web.
-- Participación en proyectos de equipo utilizando metodologías ágiles y el control de versiones con Git.
-
-Gracias por visitar mi perfil!
+🚀 Habilidades Principales:
+- **Desarrollo de APIs:** Desarrollando APIs robustas y seguras con Java Spring Boot, utilizando JWT para mantener todo seguro.
+- **Desarrollo Frontend:** Diseñando interfaces de usuario dinámicas y responsivas con ReactJS.
+- **Pruebas QA Manuales:** Con experiencia en SQL Server, Postman y AS/400, asegurando que cada detalle esté en su lugar.
+- **Contenedores Docker:** Creando entornos consistentes y escalables para cualquier desafío.
